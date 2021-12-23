@@ -1,4 +1,4 @@
-### Hi, I'm cheng 👋
+### 👋Hi, I'm ✨cheng✨
 
 <!--
 **carveybunt/carveybunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning postgraduate.
+ 🌱 I’m currently ready for postgraduate.
 
 > ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carveybunt&show_icons=true&theme=radical)
 
