@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 > ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carveybunt&show_icons=true&theme=radical)
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carveybunt&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Leetcode-CN Info](https://stats.justsong.cn/api/leetcode/?username=carveybunt&cn=true&theme=dark)
