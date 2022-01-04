@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
  🌱 I’m currently ready for postgraduate.
 
-> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carveybunt&show_icons=true&theme=radical)
+<!-- > ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carveybunt&show_icons=true&theme=radical) -->
 
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carveybunt&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carveybunt&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
+![GitHub Info](https://stats.justsong.cn/api/github?username=carveybunt&theme=radical)
 ![Leetcode-CN Info](https://stats.justsong.cn/api/leetcode/?username=carveybunt&cn=true&theme=dark)
